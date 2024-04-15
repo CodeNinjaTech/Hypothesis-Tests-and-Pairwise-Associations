@@ -1,4 +1,6 @@
-# Statistics for Business Analytics I
+# Hypothesis Tests & Pairwise Associations Project
+
+Assignment 1 for the Statistics I Course of AUEB's MSc in Business Analytics
 
 ### Dataset Description
 The `salary` data frame contains information about 474 employees hired by a Midwestern bank between 1969 and 1971. It was created for an Equal Employment Opportunity (EEO) court case involving wage discrimination. The file contains beginning salary (SALBEG), salary now (SALNOW), age of respondent (AGE), seniority (TIME), gender (SEX coded 1 = female, 0 = male), among other variables.
